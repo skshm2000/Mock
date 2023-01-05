@@ -8,5 +8,16 @@
     "profile": { "name": "typicode" },
     "MyData":[
         {"name":"Saksham"}
+    ],
+    "Cars":[
+      {
+        "id":1,
+        "brand": "Tata",
+			  "type":"Manual",
+        "year": "2019",
+        "kms": "10000",
+        "Description": "Tata Altroz with all original documents",
+        "Price": "500000"
+      }
     ]
   }
