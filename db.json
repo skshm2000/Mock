@@ -1012,5 +1012,13 @@
           "country": "Zimbabwe",
           "city": "Harare"
       }
+  ],
+  "users":[
+    {
+        "username":"SakshamSelwal",
+        "email":"sakshamselwal2000@gmail.com",
+        "password":"1234",
+        "tasks":[]
+    }
   ]
   }
