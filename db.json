@@ -1,14 +1,4 @@
 {
-    "posts": [
-      { "id": 1, "title": "vikalp", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" },
-    "MyData":[
-        {"name":"Saksham"}
-    ],
     "Cars":[
       {
         "id":1,
@@ -1020,6 +1010,22 @@
         "email":"sakshamselwal2000@gmail.com",
         "password":"1234",
         "tasks":[]
+    }
+  ],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
   }
